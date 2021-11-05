@@ -5,8 +5,8 @@ public class Distance {
 	
 	public static void main(String[] args) {
 		Scanner sc =  new Scanner(System.in);
-		int n;
-		n = sc.nextInt();
+
+		
 		System.out.println("x");
 		int x=0;
 		x = sc.nextInt();
