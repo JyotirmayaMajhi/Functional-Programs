@@ -18,7 +18,7 @@ public class Distance {
 		int [][] arr = new int[x][y];
 		
 		double distance = Math.sqrt((x*x)+(y*y));
-		System.out.println("Distance from (0, 0) to (" + x + ", " + y + ") is " +distance);
+		System.out.println("Distance from (0,0) to (" + x + ", " + y + ") is " +distance);
                 
                 
 	}
